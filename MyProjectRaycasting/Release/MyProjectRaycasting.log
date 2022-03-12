@@ -1,0 +1,14 @@
+﻿  map.c
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\map.c(23,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\map.c(24,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\map.c(43,45): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\map.c(44,45): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\map.c(45,49): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\map.c(46,49): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  upng.c
+  Generating code
+  0 of 67 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyProjectRaycasting.vcxproj -> C:\Users\Martynas\source\repos\MyProjectRaycasting\Release\MyProjectRaycasting.exe

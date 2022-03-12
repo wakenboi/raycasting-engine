@@ -1,0 +1,13 @@
+﻿  graphics.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2061: syntax error: identifier 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(91,1): error C2059: syntax error: '}'
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\graphics.c(77,1): fatal error C1004: unexpected end-of-file found
+  Main.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2061: syntax error: identifier 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(91,1): error C2059: syntax error: '}'
+C:\Users\Martynas\source\repos\MyProjectRaycasting\MyProjectRaycasting\Main.c(419,1): fatal error C1004: unexpected end-of-file found
+  Generating Code...
